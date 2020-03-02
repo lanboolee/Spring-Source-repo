@@ -16,6 +16,7 @@
 
 package org.springframework.context.annotation;
 
+import java.util.concurrent.ThreadPoolExecutor;
 import java.util.function.Supplier;
 
 import org.springframework.beans.factory.config.BeanDefinitionCustomizer;
